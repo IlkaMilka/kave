@@ -1,0 +1,38 @@
+html, body{
+	font-family: Arial, sans-serif;
+	margin: 0;
+}
+
+body header{
+
+	background-image:url(https://burgersziget.files.wordpress.com/2013/06/coffee-beans.jpg);
+	text-align: center;
+	color: white;
+	font-family: Verdana, sans-serif;
+	height: 200px;
+	vertical-align: middle;
+}
+h1{
+	vertical-align: middle 
+}
+
+.content{
+	max-width: 550px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+ul li{
+	display: inline-block;
+	margin: 0 30px;
+	list-style: none;
+	font-size: 22px;
+	font-family: Verdana, sans-serif;
+}
+ul{
+	text-align: center;
+}
+a{
+	color: black;
+	text-decoration: none;
+}
